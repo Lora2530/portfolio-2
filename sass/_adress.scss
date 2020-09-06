@@ -1,0 +1,43 @@
+.Adres{
+    background: #2F303A;
+}
+.conte{
+    margin-top: 60px;
+    margin-left: 215px;
+    margin-bottom: 60px;
+}
+.Studio1{
+    color: #FFFFFF;
+}
+.Prin{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-right: 70px;
+}
+.social-icon{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.social-list-icon:not(:last-child){
+    margin-right: 10px;
+}
+.social-list-pcon{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 44px;
+    height: 44px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+}
+.social-list-pcon:hover .icon{
+    fill: $accent-color;
+}
+.tel{ 
+    color: rgba(255, 255, 255, 0.6);
+}

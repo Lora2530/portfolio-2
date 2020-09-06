@@ -1,0 +1,51 @@
+.Vse{
+    padding-left: 400px;
+    padding-right: 10px;
+}
+.top{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.Posret-conteiner{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Point{
+    list-style-type: none;
+}
+.Name-klass{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: $grey-color;
+}
+.Bot{
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
+    
+}
+.City{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+.Itom{
+    margin-top: 20px;
+}
+.top{
+    margin-top: 60px;
+    margin-left: 70px;
+    margin-bottom: 60px;
+}
+.list-tim{
+   // display: flex;
+  //  flex-wrap: wrap;
+}
